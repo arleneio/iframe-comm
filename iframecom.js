@@ -1,3 +1,11 @@
+/**
+ * iframecom.js
+ *
+ * A lightweight library to implement a simple but powerful way to send data between iframes.
+ * 
+ * This library is exposed as global variable: window.iframecom
+ * 
+ **/
 const iframecomObj_Init = () => {
   let timeoutIframeObj = null;
 

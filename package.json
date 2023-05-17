@@ -1,0 +1,24 @@
+{
+  "name": "iframe-comm",
+  "version": "0.0.1",
+  "description": "Lighweight library to send data between iframes",
+  "main": "iframecom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arleneio/iframe-comm.git"
+  },
+  "keywords": [
+    "iframe",
+    "data",
+    "postMessage"
+  ],
+  "author": "Carlos Beltran <carlos@arlene.io>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/arleneio/iframe-comm/issues"
+  },
+  "homepage": "https://github.com/arleneio/iframe-comm#readme"
+}
